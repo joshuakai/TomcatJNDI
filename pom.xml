@@ -19,7 +19,7 @@
         </license>
     </licenses>
     <scm>
-        <connection>>scm:git:git//github.com/h-thurow/TomcatJNDI.git</connection>
+        <connection>&gt;scm:git:git//github.com/h-thurow/TomcatJNDI.git</connection>
         <developerConnection>scm:git:ssh//github.com/h-thurow/TomcatJNDI.git
         </developerConnection>
         <url>https://github.com/h-thurow/TomcatJNDI</url>
@@ -92,7 +92,7 @@
         <dependency>
             <groupId>javax.mail</groupId>
             <artifactId>mail</artifactId>
-            <version>1.4.4</version>
+            <version>1.4.7</version>
             <scope>provided</scope>
         </dependency>
         <!-- For Tomcat's default EJB support -->
