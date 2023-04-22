@@ -19,7 +19,7 @@
         </license>
     </licenses>
     <scm>
-        <connection>>scm:git:git//github.com/h-thurow/TomcatJNDI.git</connection>
+        <connection>&gt;scm:git:git//github.com/h-thurow/TomcatJNDI.git</connection>
         <developerConnection>scm:git:ssh//github.com/h-thurow/TomcatJNDI.git
         </developerConnection>
         <url>https://github.com/h-thurow/TomcatJNDI</url>
@@ -42,7 +42,7 @@
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-logging-juli</artifactId>
-            <version>7.0.79</version>
+            <version>7.0.109</version>
         </dependency>
         <dependency>
             <!-- Provides BasicDataSourceFactory -->
