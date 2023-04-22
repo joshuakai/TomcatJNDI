@@ -19,7 +19,7 @@
         </license>
     </licenses>
     <scm>
-        <connection>>scm:git:git//github.com/h-thurow/TomcatJNDI.git</connection>
+        <connection>&gt;scm:git:git//github.com/h-thurow/TomcatJNDI.git</connection>
         <developerConnection>scm:git:ssh//github.com/h-thurow/TomcatJNDI.git
         </developerConnection>
         <url>https://github.com/h-thurow/TomcatJNDI</url>
@@ -55,7 +55,7 @@
             <!-- Provides org.apache.tomcat.jdbc.pool.DataSourceFactory for org.apache.naming.factory.DataSourceLinkFactory -->
             <groupId>org.apache.tomcat</groupId>
             <artifactId>tomcat-jdbc</artifactId>
-            <version>7.0.79</version>
+            <version>7.0.109</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
